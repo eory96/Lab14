@@ -1,8 +1,8 @@
-package edu.handong.csee.java.exceptionhandle.example.prob1;
-import java.util.Scanner;
-import java.util.Random;
+package edu.handong.csee.java.exceptionhandle.example.prob1;//package name is prob1
+import java.util.Scanner;//use for keyboard input
+import java.util.Random;//use for random number
 
-public class SpeedLim_main {
+public class SpeedLimMain {//this is main class
 
 	public static void main(String[] args) {
 		Scanner keyboard = new Scanner(System.in);
