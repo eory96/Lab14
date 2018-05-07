@@ -1,13 +1,10 @@
 package edu.handong.csee.java.exeptionhandle.example.prob2;
 
-import java.util.Scanner;
+import java.util.Scanner;//use for keyboard
 
-public class InExepMain {
-	public static void main(String[] args) {
-		//int x,y;
-		
-	
-		InException excep = new InException();
-		excep.exeption();
+public class InExepMain {//this is main class
+	public static void main(String[] args) {//this is main method
+		InException excep = new InException();//instantiation InException class to excep
+		excep.exeption();//implement exception method
 	}
 }
