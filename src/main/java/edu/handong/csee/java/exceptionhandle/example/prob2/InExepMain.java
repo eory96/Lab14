@@ -1,4 +1,4 @@
-package edu.handong.csee.java.exeptionhandle.example.prob2;
+package edu.handong.csee.java.exceptionhandle.example.prob2;
 
 import java.util.Scanner;//use for keyboard
 

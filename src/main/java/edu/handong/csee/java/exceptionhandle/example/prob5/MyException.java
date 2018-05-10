@@ -1,4 +1,4 @@
-package edu.handong.csee.java.exeptionhandle.example.prob5;//package name
+package edu.handong.csee.java.exceptionhandle.example.prob5;//package name
 
 public class MyException extends Exception{//this class is son class of Exception class
 	private String message = null;//declare message variable

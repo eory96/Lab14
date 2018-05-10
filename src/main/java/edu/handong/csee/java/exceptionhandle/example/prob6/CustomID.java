@@ -1,4 +1,4 @@
-package edu.handong.csee.java.exeptionhandle.example.prob6;//this is package name
+package edu.handong.csee.java.exceptionhandle.example.prob6;//this is package name
 
 public class CustomID {//this is CustomID class
 	private String name;//this variable will save name

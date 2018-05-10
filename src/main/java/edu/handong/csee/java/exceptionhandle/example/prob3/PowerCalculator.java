@@ -1,4 +1,4 @@
-package edu.handong.csee.java.exeptionhandle.example.prob3;//this is package name
+package edu.handong.csee.java.exceptionhandle.example.prob3;//this is package name
 
 public class PowerCalculator {//this is class to throws Exception to other sid
 	

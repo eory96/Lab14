@@ -1,4 +1,4 @@
-package edu.handong.csee.java.exeptionhandle.example.prob4;//package name
+package edu.handong.csee.java.exceptionhandle.example.prob4;//package name
 import java.util.Scanner;//use for keyboard
 
 public class BoundaryMain {//this is main class
