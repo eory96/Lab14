@@ -1,4 +1,4 @@
-package edu.handong.csee.java.exeptionhadle.example.prob6;//package name
+package edu.handong.csee.java.exeptionhandle.example.prob6;//package name
 import java.util.Scanner;//using for keyboard
 
 public class CustomMain {//this is main class

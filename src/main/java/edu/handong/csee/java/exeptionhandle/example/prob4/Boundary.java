@@ -1,4 +1,4 @@
-package edu.handong.csee.java.exeptionhadle.example.prob4;//package name
+package edu.handong.csee.java.exeptionhandle.example.prob4;//package name
 
 public class Boundary {//this is Boundary class for save array and throw to ArrayIndexOutOfBoundsException
 	private int [] arr = new int[5];//declare new array
